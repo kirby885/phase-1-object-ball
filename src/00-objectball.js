@@ -1,7 +1,9 @@
-function gameObject() {
-    home: "teamName", "colors", "players"
-    away: "teamName", "colors", "players"
-    //return gameObject;
+function gameObject(); 
+{
+  home:
+  teamName:"", colors:"", players:""}
+  away:{ teamName:"", colors:"", players:""} 
   }
+};
   
   teamName
